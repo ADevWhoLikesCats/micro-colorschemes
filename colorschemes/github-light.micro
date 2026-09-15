@@ -1,0 +1,44 @@
+# GitHub Light Colorscheme for Micro
+# Foreground/Background
+color-link default "#24292e,#ffffff"
+color-link cursor-line ",#f6f8fa"
+color-link color-column "#e1e4e6"
+
+# Interface elements
+color-link line-number "#959da5"
+color-link current-line-number "#24292e"
+color-link statusline "#24292e,#f6f8fa"
+color-link tabbar "#24292e,#f6f8fa"
+color-link gline "#24292e,#eaecef"
+color-link scrollbar "#e1e4e6"
+
+# Syntax Highlighting Group Mappings
+color-link comment "#6a737d"
+color-link comment.bright "#6a737d"
+
+color-link constant "#005cc5"
+color-link constant.string "#032f62"
+color-link constant.string.char "#032f62"
+color-link constant.number "#005cc5"
+color-link constant.specialChar "#d73a49"
+
+color-link identifier "#6f42c1"
+color-link identifier.class "#6f42c1"
+color-link identifier.var "#e36209"
+
+color-link statement "#d73a49"
+color-link symbol "#d73a49"
+color-link symbol.brackets "#24292e"
+color-link symbol.tag "#22863a"
+
+color-link preproc "#d73a49"
+color-link type "#d73a49"
+color-link special "#e36209"
+color-link underlined "underline #24292e"
+color-link error "bold #9e1c23,#fdaeb7"
+color-link todo "bold #6a737d,#fff5b1"
+
+# Diff Gutter
+color-link diff-added "#22863a"
+color-link diff-modified "#e36209"
+color-link diff-removed "#b31d28"

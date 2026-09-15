@@ -1,0 +1,19 @@
+# General UI
+color-link default "#c9d1d9,#0d1117"
+color-link cursor-line "#161b22"
+color-link statusline "#c9d1d9,#161b22"
+color-link tabbar "#c9d1d9,#161b22"
+color-link line-number "#8b949e,#0d1117"
+color-link current-line-number "#c9d1d9,#0d1117"
+
+# Syntax Highlighting
+color-link comment "italic #8b949e"
+color-link constant "#79c0ff"
+color-link constant.string "#a5d6ff"
+color-link identifier "#d2a8ff"
+color-link statement "#ff7b72"
+color-link preproc "#ff7b72"
+color-link type "#7ee787"
+color-link special "#79c0ff"
+color-link error "bold #ff7b72"
+color-link todo "bold #e3b341"
